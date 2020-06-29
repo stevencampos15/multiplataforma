@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="negroclaro">#232b2b</color>f2f2f2
+    <color name="blanco">#ffffff</color>
+    <color name="casiblanco">#d8d8d8</color>
+    <color name="kindared">#eb4c60 </color>
+</resources>
